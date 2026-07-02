@@ -1,5 +1,3 @@
-import logo from '../assets/logo.png'; 
-
 function Menu() {
   return (
     <header className="header">
